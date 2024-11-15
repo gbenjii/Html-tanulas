@@ -3,5 +3,9 @@ td{
     padding: 10%;
     margin: 20%;
     text-align: center;
-    
+    font-size: 400%;
+    color: green;
+    background-color: aqua;   
+    font-family: 'Times New Roman', Times, serif;
+    font-style: 10;
 }
