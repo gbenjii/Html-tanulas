@@ -1,0 +1,17 @@
+.kozep {
+    text-align: justify;
+    width: 300px;
+    border: 1px dotted;
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 19px;
+    position: fixed;
+    top: 0px;
+    right: 100px;
+}
+
+div.left{
+    width: 50%;
+    text-align: justify;
+    background-color: red;
+}
